@@ -1,0 +1,2 @@
+- [x]: Criar uma automação de encaminhamento de mensagens no WhatsApp;
+- [x]: Deve-se encaminhar mensagens de 5 em 5;
